@@ -1,2 +1,5 @@
 # Hello-World
-Hello
+
+Hi Humans!
+
+I just say, senrino-michimo-ippokara.
